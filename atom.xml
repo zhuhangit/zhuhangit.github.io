@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhangit.github.io</id>
     <title>Diffeauty</title>
-    <updated>2020-10-08T10:35:33.811Z</updated>
+    <updated>2021-07-17T09:36:16.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhangit.github.io"/>
     <link rel="self" href="https://zhuhangit.github.io/atom.xml"/>
     <subtitle>不一样的美好</subtitle>
     <logo>https://zhuhangit.github.io/images/avatar.png</logo>
     <icon>https://zhuhangit.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Diffeauty</rights>
+    <rights>All rights reserved 2021, Diffeauty</rights>
     <entry>
         <title type="html"><![CDATA[Diffeauty]]></title>
         <id>https://zhuhangit.github.io/post/diffeautiful/</id>
